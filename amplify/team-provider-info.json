@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "syncup-dev-20200308234952-authRole",
+            "UnauthRoleArn": "arn:aws:iam::627139574834:role/syncup-dev-20200308234952-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::627139574834:role/syncup-dev-20200308234952-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "syncup-dev-20200308234952-deployment",
+            "UnauthRoleName": "syncup-dev-20200308234952-unauthRole",
+            "StackName": "syncup-dev-20200308234952",
+            "StackId": "arn:aws:cloudformation:us-east-1:627139574834:stack/syncup-dev-20200308234952/088b4390-61b9-11ea-a107-0af60b3b604b"
+        },
+        "categories": {
+            "auth": {
+                "syncupf090ca11": {}
+            }
+        }
+    }
+}

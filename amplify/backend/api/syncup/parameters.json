@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "syncup",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authsyncupf090ca11",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
